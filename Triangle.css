@@ -1,7 +1,12 @@
 body{
     background-color:rgb(197, 178, 148);
 
-}
+}h1, h2, h3{
+    font-size:large;
+    font-family:monospace;
+ }
+ 
+
 
  
 
