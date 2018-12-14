@@ -9,5 +9,8 @@ function myFunction(){
 
                 elseif (number1===number2 ||number1===number3 || number2<number3) {
                     console.log (alert("esoceles"));}
+                    elseif( number1!=number2 && number1!=number3 && number2!=number3);
+                    console.log (alert("scalen"));
+                }
       
                 
