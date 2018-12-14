@@ -1,14 +1,15 @@
 function myFunction(){
-    var firstString=
-    document.getElementById("myNumber").value;
-            alert(firstString);
+    var number1=parseInt(document.getElementById("number1").value);
+    var number2=parseInt(document.getElementById("number2").value);
+    var number3=parseInt(document.getElementById("number3").value);
+
+            function Triangle(){
+                if( number1==number2 && number1==number3 && number2==number3);
+                  console.log (alert ("Equilateral"));}
+
+            elseif (number1===number2 ||number1===number3 || number2<number3) {
+                console.log (alert("esoceles"));}
+
+            elseif( number1!=number2 && number1!=number3 && number2!=number3);
+                console.log (alert("scalen"));
             }
-            function Triangle(number1, number2, number3){
-                if( number1==number2 && number1==number3 && number2==number3);{
-                    ("alert Equilateral")}
-            }
-            elseif(number1==number2 && number1==number3 && number2!=number3);{
-                ("alert isoceles");}
-                if(number1!=number2 || number1!=number3 || number2!=number3);{
-                    ("alert scalen")
-                }
