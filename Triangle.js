@@ -15,11 +15,11 @@ function myTriangle(){
                 {
                     console.log (alert("esoceles"));
                 }
-                    else if( number1!=number2 && number1!=number3 && number2!=number3);
+                    else if( number1+number2<number3 || number2+number3<number1 || number1+number3<number2);
                     {
                     console.log (alert("scalen"));
                 }
-                s
+                
             }
       
                 
