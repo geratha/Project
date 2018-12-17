@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(197, 178, 148);
+    background-color:rgb(209, 168, 103);
 
 }
 h1{
@@ -12,7 +12,7 @@ h1{
 h2, h3,h4{
     font-family:monospace;
     text-decoration:underline;
-    color:green;
+    color:blue;
  }
  p{
     float:rigt;
@@ -29,5 +29,5 @@ p{
 }
 img{
     width: 180px;
-    height: 200px;
+    height: 180px;
 }
