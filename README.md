@@ -19,5 +19,9 @@ Uwamahoro Geratha
 | For this triangle all side are unique                    | 1,2,3 | Scalene     |   
 |--------------------------------------------------------------------------------|
 
+## Contact
+
+Phone:0783124750
+Email:kandenzi018@gmail.com
 
 
