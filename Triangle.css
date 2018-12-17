@@ -6,28 +6,23 @@ h1{
     text-align: center;
     font-size:60px;
     text-decoration:inherit;
-    color:green; 
+    color: #ccff99;
     
 }
-h2, h3,h4{
+h2, h3,{
     font-family:monospace;
     text-decoration:underline;
-    color:blue;
- }
- p{
-    float:rigt;
-    margin: right;
  }
  .triangle{
     float: left;
 }
 p{
     float:right;
-    margin:1.5px;
+    margin-left: 5PX;
     font-size: 18px;
     color:blue;
 }
 img{
     width: 180px;
     height: 180px;
-}
+    }
