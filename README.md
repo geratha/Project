@@ -24,4 +24,6 @@ Uwamahoro Geratha
 Phone:0783124750
 Email:kandenzi018@gmail.com
 
+## License & Copylight
 
+(c) Uwamahoro Geratha, MIT License 2018.
