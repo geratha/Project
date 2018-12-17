@@ -20,18 +20,4 @@ Uwamahoro Geratha
 |--------------------------------------------------------------------------------|
 
 
-## Technology
-
-Google chrome
-and Vision studio code
-
-
-## Contact
-
-Phone number:0783124750
-Email:kandenzi018@gmail.com
-
-## License & Copylight
-
-(c) Uwamahoro Geratha, MIT License 2018.
 
