@@ -23,5 +23,5 @@ function myTriangle() {
     }
     else {
         cansole.log("non triangle");
-    };
+    }
 }
