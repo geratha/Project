@@ -1,28 +1,34 @@
 body{
     background-color:rgb(209, 168, 103);
+    background-image:
 
 }
 h1{
     text-align: center;
     font-size:60px;
     text-decoration:inherit;
-    color: #ccff99;
+    color:green; 
     
 }
-h2, h3,{
+h2, h3,h4{
     font-family:monospace;
     text-decoration:underline;
+    color:blue;
+ }
+ p{
+    float:rigt;
+    margin: right;
  }
  .triangle{
     float: left;
 }
 p{
     float:right;
-    margin-left: 5PX;
+    margin:1.5px;
     font-size: 18px;
     color:blue;
 }
 img{
     width: 180px;
     height: 180px;
-    }
+}
